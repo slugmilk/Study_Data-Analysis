@@ -1,0 +1,2 @@
+C:/Users/user/Documents/GitHub/Study_Data-Analysis/Data/shop_201806_01.zip filter=lfs diff=lfs merge=lfs -text
+C:/Users/user/Documents/GitHub/Study_Data-Analysis/Data/shop_201806_01.csv filter=lfs diff=lfs merge=lfs -text
